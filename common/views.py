@@ -13,3 +13,6 @@ def toProgram_view(request):
 
 def toSubmission_view(request):
     return render(request, 'submission.html')
+
+def toProgram2023_view(request):
+    return render(request, 'EM-GIS2023.html')
