@@ -154,3 +154,11 @@ h3{
     background-color:#d7d9da;
     height:50px;
 }
+.content2{
+    font-family:"Montserrat",sans-serif;
+    font-size:15px;
+    line-height:20px;
+    color:#24252a;
+    letter-spacing:1px;
+    text-decoration: underline;
+}
